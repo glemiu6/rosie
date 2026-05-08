@@ -34,5 +34,9 @@ HUMBLE = Distro(
     },
     quirks=[],
     python_version="3.11"
+)
 
+JAZZY=Distro(
+    name="jazzy",
+    
 )
